@@ -1,8 +1,7 @@
 /* Dropdown container */
 .dropdown-wrapper {
     display: flex;
-    min-width: 200px;
-    min-height: 400px;
+    min-width: 250px;
   }
   
   /* Dropdown button */
