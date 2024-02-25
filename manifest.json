@@ -1,0 +1,18 @@
+{
+    "description": "Adds a window to see professor ratings and what classes are taught",
+    "manifest_version": 2,
+    "name": "Rate My Professor - Ext",
+    "version": "1.0",
+    "homepagei_url": "https://github.com/Rate-My-Prof-Ext/extension",
+    "permission": [
+        "activeTab"
+    ],
+
+    "browser_action": {
+        "default_popup": "popup/seeProf.html"
+    },
+
+    "web_accessible_resources": [
+        "assets/*.jpg"
+    ]
+}
