@@ -2,7 +2,6 @@
 .dropdown-wrapper {
     display: flex;
     min-width: 250px;
-    min-height: 400px;
   }
   
   /* Dropdown button */
